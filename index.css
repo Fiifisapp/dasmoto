@@ -1,0 +1,31 @@
+body {
+    font-family: 'Space Mono', monospace;
+}
+
+h2 {
+    padding-top: 150px;
+    background: url('../resources/image/tanalee-youngblood-CMdQcxsWZE0-unsplash.jpg');
+    
+}
+
+
+#logo img {
+    width: 100px;
+    height: 100px;
+}
+
+#logo h2 { 
+    text-align: left;
+    color: white;
+}
+
+#what {
+    background-color: rgba(73, 71, 71, 0.432);
+
+}
+
+#what h4{
+    color: #FFF;
+    opacity: 0.5;
+
+}
